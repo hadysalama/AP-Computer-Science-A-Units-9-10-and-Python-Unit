@@ -1,0 +1,23 @@
+/tmp/java_FFcrJN/Range.java:27: error: illegal start of expression
+    String output = for (int i = minVal; i < maxVal; i++)
+                    ^
+/tmp/java_FFcrJN/Range.java:27: error: ')' expected
+    String output = for (int i = minVal; i < maxVal; i++)
+                              ^
+/tmp/java_FFcrJN/Range.java:27: error: not a statement
+    String output = for (int i = minVal; i < maxVal; i++)
+                        ^
+/tmp/java_FFcrJN/Range.java:27: error: > expected
+    String output = for (int i = minVal; i < maxVal; i++)
+                                                   ^
+/tmp/java_FFcrJN/Range.java:27: error: not a statement
+    String output = for (int i = minVal; i < maxVal; i++)
+                                           ^
+/tmp/java_FFcrJN/Range.java:27: error: ';' expected
+    String output = for (int i = minVal; i < maxVal; i++)
+                                                        ^
+/tmp/java_FFcrJN/Range.java:31: error: ';' expected
+    return output
+                 ^
+7 errors
+
